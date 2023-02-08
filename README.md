@@ -11,9 +11,9 @@ I am a full stack software engineer currently working on <a href="https://github
 **Publications**
 - <a href="https://medium.com/@Stephenpharmd/how-to-monitor-your-docker-containers-better-with-dockerwatch-d8a30dbfa7b4">How to monitor your docker containers better with DockerWatch</a>
 <h1></h1>
-<!--
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenpharmd&theme=tokyonight&show_icons=true&&hide=stars,issues)
 
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenpharmd&theme=tokyonight&show_icons=true&&hide=stars,issues)
+<!--
 **stephenpharmd/stephenpharmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
