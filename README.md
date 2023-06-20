@@ -9,19 +9,16 @@ I am a full stack software engineer currently working on <a href="https://github
 <h1></h1>
 
 **Publications**
+- <a href="https://medium.com/@Stephenpharmd/the-magic-of-axios-retry-enhancing-api-request-resiliency-87f1b61fa411">The Magic of Axios-Retry: Enhancing API Request Resiliency</a>
+- <a href="https://betterprogramming.pub/how-to-navigate-the-ideation-stage-of-software-development-e5bfdc9bfe31">How to navigate the ideation phase of software development</a>
 - <a href="https://medium.com/@Stephenpharmd/how-to-monitor-your-docker-containers-better-with-dockerwatch-d8a30dbfa7b4">How to monitor your docker containers better with DockerWatch</a>
-<h1></h1>
-<!--
-**stephenpharmd/stephenpharmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Guides**
+- [How to Host a Local Generative AI Model](https://github.com/stephenpharmd/openjourney-v4-setup)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured Repos**
+- [DockerWatch](https://github.com/oslabs-beta/docker-watch-app)
+- [OpenAI Hackathon](https://github.com/AIontheFly/openai-hackathon-dec-22)
+
+**NPM Packages***
+-[React Image Upload Interface](https://www.npmjs.com/package/react-image-upload-interface)
