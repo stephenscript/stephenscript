@@ -1,4 +1,4 @@
-<h1>Stephen Rivas&nbsp;&nbsp;<a target="_blank" href="https://linkedin.com/in/stephenpharmd"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055"/></a></h1>
+<h1>Stephen Rivas&nbsp;&nbsp;<a target="_blank" href="https://linkedin.com/in/stephenscript"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055"/></a></h1>
 
 I am a full stack software engineer at <a href="https://github.com/oslabs-beta/docker-watch-app">DockerWatch</a>, an open-source product launched in 2022 through the tech accelerator <a href="https://github.com/open-source-labs">OSLabs</a>. I am located in the New York City area and I am always happys to meet developers for discussion or collaboration.
 <h1></h1>
